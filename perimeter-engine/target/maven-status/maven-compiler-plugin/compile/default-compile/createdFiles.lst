@@ -1,0 +1,4 @@
+com\amundi\perimeter_engine\common\enums\EntityType.class
+com\amundi\perimeter_engine\PerimeterEngineApplication.class
+com\amundi\perimeter_engine\api\controller\PerimeterController.class
+com\amundi\perimeter_engine\application\service\PerimeterApplicationService.class
